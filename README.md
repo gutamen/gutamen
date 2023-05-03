@@ -1,4 +1,4 @@
-### *Programar em Python é para fracos*
+### *Programar em ~~Python~~ é para fracos*
 
 <!--
 **gutamen/gutamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
